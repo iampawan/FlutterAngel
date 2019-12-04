@@ -19,6 +19,9 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
+  dio: ^3.0.7
+  angel_framework: ^2.1.0
+  angel_hot: ^2.0.6
 
   # The following adds the Cupertino Icons font to your application.
   # Use with the CupertinoIcons class for iOS style icons.
